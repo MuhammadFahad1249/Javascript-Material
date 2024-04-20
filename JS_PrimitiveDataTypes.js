@@ -1,4 +1,4 @@
-//  nn         |   bb           |    ss         |      u 
+//  nn         |   bb           |    ss         |     u 
 // null,number | boolean,BIgint | String,Symbol | Undefined
 
 let a = null;
